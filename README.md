@@ -2,11 +2,6 @@
 
 #### Este repositorio contiene proyectos desarrollados en la cursada de la materia **Frontend II**, en la carrera **Certified Tech Developer** en el año **2021**.
 
-:heavy_check_mark: Proyecto Banderas (HTML + JavaScript + Fetch)
-
-https://gefurs.github.io/Frontend-II/banderas/
-
-
 :heavy_check_mark: Proyecto Comentarios (HTML + CSS + JavaScript + LocalStorage)
 
 https://gefurs.github.io/Frontend-II/comentarios/
